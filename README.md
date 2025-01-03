@@ -54,7 +54,7 @@ The **France Travail Scraper** is a robust web scraping framework designed to ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FranceTravail_scraper.git
+   git clone https://github.com/atefawaz/France-Travail-Scrapper.git
    cd FranceTravail_crawler
    ```
 
